@@ -11,8 +11,8 @@ Click on any link below to explore the code and documentation.
 - [Project 2](https://github.com/jaswanth-0511/LongHairDetection.git)
 - [Project 3](https://github.com/jaswanth-0511/SignLangugeDetector.git)
 - [Project 4](https://github.com/jaswanth-0511/SeniorCitizenDectection.git)
-- [Project 4](https://github.com/jaswanth-0511/AgeEmotionbyVoice.git)
-- [Project 4](https://github.com/jaswanth-0511/NationalityDetection.git)
+- [Project 5](https://github.com/jaswanth-0511/AgeEmotionbyVoice.git)
+- [Project 6](https://github.com/jaswanth-0511/NationalityDetection.git)
 
 ---
 
